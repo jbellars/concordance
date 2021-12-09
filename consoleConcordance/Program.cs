@@ -6,8 +6,15 @@ using System.Text.RegularExpressions;
 
 namespace consoleConcordance
 {
+    /// <summary>
+    /// The Program.
+    /// </summary>
     public class Program
     {
+        /// <summary>
+        /// Generic main method required by a console application. This is the main entry point for the program.
+        /// </summary>
+        /// <param name="args">Additional arguments fed to the program.</param>
         public static void Main(string[] args)
         {
             Dictionary<string, WordEntry> concordance = new Dictionary<string, WordEntry>();

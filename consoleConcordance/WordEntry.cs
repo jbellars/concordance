@@ -43,16 +43,28 @@ namespace consoleConcordance
             _locations.Add(sentenceNumber.ToString());
         }
 
+        /// <summary>
+        /// Retrieves the frequency of word entry in the body of text.
+        /// </summary>
+        /// <returns>The current frequency of the word entry.</returns>
         public int GetFrequency()
         {
             return _frequency;
         }
 
+        /// <summary>
+        /// Prints the sentence locations of the word entry.
+        /// </summary>
+        /// <returns>A string of concatenated word entry locations.</returns>
         public string PrintLocations()
         {
             return string.Join(",", _locations);
         }
 
+        /// <summary>
+        /// Returns the collection of sentence locations where the word entry appears.
+        /// </summary>
+        /// <returns></returns>
         public List<string> GetLocations()
         {
             return _locations;
