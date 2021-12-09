@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleConcordance", "consoleConcordance\consoleConcordance.csproj", "{F4EE6956-87A6-4F54-AD85-B2BC7E7217D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleConcordance.Tests", "consoleConcordance.Tests\consoleConcordance.Tests.csproj", "{9EC4F3BB-A0FA-4132-A294-31EC2782E917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4EE6956-87A6-4F54-AD85-B2BC7E7217D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EE6956-87A6-4F54-AD85-B2BC7E7217D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EE6956-87A6-4F54-AD85-B2BC7E7217D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EE6956-87A6-4F54-AD85-B2BC7E7217D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC4F3BB-A0FA-4132-A294-31EC2782E917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC4F3BB-A0FA-4132-A294-31EC2782E917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC4F3BB-A0FA-4132-A294-31EC2782E917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC4F3BB-A0FA-4132-A294-31EC2782E917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

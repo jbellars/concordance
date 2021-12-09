@@ -1,0 +1,43 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d85cdd8_002Dd025_002D4777_002D9483_002D297cc1714505/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BuildConcordanceFromStreamReader_Succeeds" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EC4F3BB-A0FA-4132-A294-31EC2782E917::net6.0::consoleConcordance.Tests.ProgramTests.BuildConcordanceFromStreamReader_Succeeds&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=320f7dcb_002Db7bb_002D4c30_002Da517_002Dcea2d26e4e13/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BuildConcordanceFromStreamReader_Succeeds #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EC4F3BB-A0FA-4132-A294-31EC2782E917::net6.0::consoleConcordance.Tests.ProgramTests.BuildConcordanceFromStreamReader_Succeeds&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4027bf5e_002D6074_002D4d3e_002Da1ab_002D57f14551957e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddNewWordEntry_Succeeds #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EC4F3BB-A0FA-4132-A294-31EC2782E917::net6.0::consoleConcordance.Tests.ProgramTests.AddNewWordEntry_Succeeds&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EC4F3BB-A0FA-4132-A294-31EC2782E917::net6.0::consoleConcordance.Tests.ProgramTests.UpdateExistingWordEntry_Succeeds&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EC4F3BB-A0FA-4132-A294-31EC2782E917::net6.0::consoleConcordance.Tests.ProgramTests.BuildConcordanceFromStreamReader_Succeeds&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5cabecb5_002D0c66_002D4534_002D8b2f_002Db95844ec3e67/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddNewWordEntry_Succeeds #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EC4F3BB-A0FA-4132-A294-31EC2782E917::net6.0::consoleConcordance.Tests.ProgramTests.AddNewWordEntry_Succeeds&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8fb732ad_002D36d4_002D442e_002D8420_002D0568452f2562/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BuildConcordanceFromStreamReader_Succeeds #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EC4F3BB-A0FA-4132-A294-31EC2782E917::net6.0::consoleConcordance.Tests.ProgramTests.BuildConcordanceFromStreamReader_Succeeds&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e8bee917_002D72f3_002D49af_002Dac97_002D5d880e475dc0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BuildConcordanceFromStreamReader_Succeeds #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EC4F3BB-A0FA-4132-A294-31EC2782E917::net6.0::consoleConcordance.Tests.ProgramTests.BuildConcordanceFromStreamReader_Succeeds&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f60106d5_002D06e6_002D4b55_002D985a_002D21adf817c195/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddNewWordEntry_Succeeds" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EC4F3BB-A0FA-4132-A294-31EC2782E917::net6.0::consoleConcordance.Tests.ProgramTests.AddNewWordEntry_Succeeds&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fb3671b0_002Da473_002D4b6c_002Db134_002D4a93cba4aabc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddNewWordEntry_Succeeds #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EC4F3BB-A0FA-4132-A294-31EC2782E917::net6.0::consoleConcordance.Tests.ProgramTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
