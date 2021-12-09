@@ -174,7 +174,7 @@ namespace consoleConcordance
         /// </summary>
         /// <param name="concordance">The initial concordance.</param>
         /// <param name="sortedKeys">The list of sorted concordance keys.</param>
-        /// <returns></returns>
+        /// <returns>A sorted concordance (i.e. a sorted dictionary of word frequency and occurrence data from a given text file).</returns>
         public static Dictionary<string, WordEntry> CreateSortedConcordance(Dictionary<string, WordEntry> concordance, List<string> sortedKeys)
         {
             var sorted = new Dictionary<string, WordEntry>();
